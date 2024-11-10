@@ -7,7 +7,7 @@ title = Lazy Solitaire
 package.name = LazySolitaire
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.xiii.cards
+package.domain = org.yourapp.domain
 
 # (str) Source code where the main.py live
 source.dir = .
