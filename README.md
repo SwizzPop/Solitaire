@@ -1,4 +1,4 @@
-Lazy Solitaire.
+<b>Lazy Solitaire.</b><br>
 Game rules.
 <ol>
   <li>Deal 4 cards</li>
@@ -9,4 +9,5 @@ Game rules.
   <li>Repeat the comparison until all cards have been drawn</li>
   <li>You can chain combinations, ie remove multiple matches without drawing a card</li>
   <li>The goal is to git rid of all cards in the deck</li>
-</ol>
+</ol><br>
+Run main.py to start the graphical game.  Or run simulator.py to simulate the results of a large number of games.  Using buildozer.spec, and JDK 17, this app can be compiled into an Android apk.
