@@ -1,0 +1,22 @@
+# Buildozer build directory
+.buildozer/
+
+# Binary files and builds
+bin/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Database files
+*.db
+
+# IDE specific files (optional but recommended)
+.vscode/
+.idea/
+
+# Virtual environment (if you're using one)
+venv/
+env/
+
+solitaire.txt
